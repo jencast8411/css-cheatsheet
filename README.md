@@ -1,14 +1,14 @@
-Description
+## Description
 The CSS Cheatsheet was created to easily access Flexbox, grid, and other style codes.
 
-Installation
+## Installation
 N/A
 
-Usage
+## Usage
 Copy and paste codes onto CSS style sheet to format HTML pages.
 
-Credits
+## Credits
 N/A
 
-License
+## License
 Please refer to the LICENSE in the repo.
